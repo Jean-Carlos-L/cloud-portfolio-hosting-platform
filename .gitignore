@@ -38,6 +38,9 @@ target/
 # ─────────────────────────────────────────────
 bin/
 *.exe
+# cdk/bin contiene el entry point TS del app, no un binario Go
+!/cdk/bin/
+!/cdk/bin/cdk.ts
 
 # ─────────────────────────────────────────────
 # C# / .NET
@@ -52,6 +55,7 @@ obj/
 .env.*
 *.pem
 aws-exports.js
+!.env.example
 
 # ─────────────────────────────────────────────
 # Editores / SO
