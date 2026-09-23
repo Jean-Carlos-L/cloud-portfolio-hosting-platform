@@ -1,0 +1,18 @@
+[
+  {
+    "studentId": "univalle-2026-001",
+    "studentName": "Ana Estudiante",
+    "program": "Ingeniería de Sistemas",
+    "publishedAt": "2026-09-19T10:00:00Z",
+    "url": "https://<tu-distribucion>.cloudfront.net/index.html",
+    "visibility": "public"
+  },
+  {
+    "studentId": "univalle-2026-002",
+    "studentName": "Bruno Builder",
+    "program": "Ingeniería Electrónica",
+    "publishedAt": "2026-09-19T10:15:00Z",
+    "url": "https://<tu-distribucion>.cloudfront.net/bruno/index.html",
+    "visibility": "private"
+  }
+]

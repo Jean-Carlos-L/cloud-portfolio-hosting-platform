@@ -1,0 +1,14 @@
+# Inicializa aquí tu proyecto AWS CDK.
+#
+# Desde esta carpeta (cdk/), ejecuta UNO de los siguientes según tu lenguaje:
+#
+#   cdk init app --language typescript
+#   cdk init app --language python
+#   cdk init app --language java
+#   cdk init app --language go
+#   cdk init app --language csharp
+#
+# `cdk init` requiere que la carpeta esté vacía (salvo este archivo).
+# Puedes borrar este archivo antes de inicializar si tu herramienta lo exige.
+#
+# Luego: cdk bootstrap  →  cdk synth  →  cdk deploy  →  (al terminar) cdk destroy
